@@ -13,7 +13,7 @@
 
 [Features](#-key-features) • [Analysis](#-exploratory-data-analysis) • [Insights](#-key-insights) • [Contact](#-contact)
 
-### 🌐 **View Interactive Analysis**
+### 🌐 [**View Live Interactive Report**](https://drive.google.com/file/d/1O6TJSE7rEB_e1Ml2k7kiRyo_1v9xAYYi/view?usp=sharing)
 
 💡 **Feel free to explore the Jupyter notebook and adapt it to your own research datasets!**
 
